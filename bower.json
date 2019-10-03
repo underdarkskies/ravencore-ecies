@@ -1,19 +1,19 @@
 {
-  "name": "bitcore-ecies",
-  "main": "./bitcore-ecies.min.js",
+  "name": "ravencore-ecies",
+  "main": "./ravencore-ecies.min.js",
   "version": "1.0.3",
-  "homepage": "https://github.com/bitpay/bitcore-ecies",
+  "homepage": "https://github.com/underdarkskies/ravencore-ecies",
   "authors": [
-    "BitPay"
+    "Under"
   ],
-  "description": "ECIES implemented for Bitcore.",
+  "description": "ECIES implemented for Ravencore.",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "bitcoin",
-    "bitcore",
-    "btc",
+    "ravencoin",
+    "ravencore",
+    "rvn",
     "satoshi",
     "ecies"
   ],

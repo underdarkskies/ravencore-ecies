@@ -29,5 +29,5 @@ node_modules
 
 
 tests.js
-bitcore-ecies.js
-bitcore-ecies.min.js
+ravencore-ecies.js
+ravencore-ecies.min.js
